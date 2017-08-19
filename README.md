@@ -1,5 +1,5 @@
 # BMP-Resizer
-From CS50 psets, a bmp resizer. Reads sample bmp file, and outputs a new bmp file with new dimensions. 
+From CS50 psets, a bmp resizer. Reads sample bmp input file, and writes to a new bmp output file with new dimensions. 
 
 View sample.bmp to see desired input, and view either sampleShrunk.bmp or sampleGrow.bmp for desired outputs.
 
